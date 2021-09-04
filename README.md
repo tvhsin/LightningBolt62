@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LightningBolt62&style=flat-square" alt="LightningBolt" /> </p>
 
-<div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/733232145304125540.png"></div>
+<div align="center"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/733232145304125540.png"></div>
 
 - 📫 You can find me on my discord **[https://discord.gg/rXcf3pt3q3](https://discord.gg/rXcf3pt3q3)**
 - 🤖 Or have a look at my bot at **[https://discord.ly/lightning-bot](https://discord.ly/lightning-bot)**
