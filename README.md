@@ -1,9 +1,9 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm LightningBolt</h1>
 <h3 align="center">I'm just a discord bot devoloper who sometimes works on other stuff</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LightningBolt62&style=flat-square" alt="LightningBolt" /> </p>
+<p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=LightningBolt62&style=flat-square" alt="LightningBolt" /> </p>
 
-<div align="center"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/733232145304125540.png"></div>
+<p align="center">&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-3/733232145304125540.png" alt="LightningBolt" /></p>
 
 - 📫 You can find me on my discord **[https://discord.gg/rXcf3pt3q3](https://discord.gg/rXcf3pt3q3)**
 - 🤖 Or have a look at my bot at **[https://discord.ly/lightning-bot](https://discord.ly/lightning-bot)**
