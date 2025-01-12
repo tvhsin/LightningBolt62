@@ -28,5 +28,10 @@
 <p align="center">
 <a href="https://discord.com/users/1139518018158874695" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://cdn.simpleicons.org/discord"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reddit.com/u/LightningBolt62" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://cdn.simpleicons.org/reddit"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/tvhsin"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://cdn.simpleicons.org/github"></a>
+<a href="https://github.com/tvhsin">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+    <img alt="GitHub" title="GitHub" height="32" width="32" src="https://cdn.simpleicons.org/github">
+  </picture>
+</a>
 </p>
