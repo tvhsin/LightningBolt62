@@ -1,7 +1,7 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Tahsin</h1>
 <h3 align="center">I'm a 16 year old student beginning to learn full-stack development</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=LightningBolt62&style=flat-square" alt="tvhsin" /> </p>
+<p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=tvhsin&style=flat-square" alt="tvhsin" /> </p>
 
 <p align="center">&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-2/1139518018158874695.png" alt="tvhsin" /></p>
 
